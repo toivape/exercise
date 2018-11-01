@@ -1,6 +1,6 @@
-package com.ekahau.exercise.controller;
+package com.example.exercise.controller;
 
-import com.ekahau.exercise.service.BookService;
+import com.example.exercise.service.BookService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +10,7 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
-import static com.ekahau.exercise.TestUtil.jsonBook;
+import static com.example.exercise.TestUtil.jsonBook;
 import static org.hamcrest.Matchers.containsString;
 import static org.mockito.Mockito.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;

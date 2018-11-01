@@ -1,8 +1,8 @@
-package com.ekahau.exercise.controller;
+package com.example.exercise.controller;
 
-import com.ekahau.exercise.Main;
-import com.ekahau.exercise.db.Book;
-import com.ekahau.exercise.db.BookRepo;
+import com.example.exercise.Main;
+import com.example.exercise.db.Book;
+import com.example.exercise.db.BookRepo;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -15,8 +15,8 @@ import org.springframework.test.web.servlet.MockMvc;
 
 import java.util.List;
 
-import static com.ekahau.exercise.TestUtil.getTestBooks;
-import static com.ekahau.exercise.TestUtil.jsonBook;
+import static com.example.exercise.TestUtil.getTestBooks;
+import static com.example.exercise.TestUtil.jsonBook;
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.Matchers.containsString;

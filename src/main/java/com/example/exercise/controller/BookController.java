@@ -1,7 +1,7 @@
-package com.ekahau.exercise.controller;
+package com.example.exercise.controller;
 
-import com.ekahau.exercise.db.Book;
-import com.ekahau.exercise.service.BookService;
+import com.example.exercise.db.Book;
+import com.example.exercise.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.ekahau.exercise.controller;
+package com.example.exercise.controller;
 
 
 import javax.validation.constraints.NotNull;

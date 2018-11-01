@@ -1,4 +1,4 @@
-package com.ekahau.exercise.db;
+package com.example.exercise.db;
 
 import javax.persistence.*;
 import javax.validation.constraints.Size;

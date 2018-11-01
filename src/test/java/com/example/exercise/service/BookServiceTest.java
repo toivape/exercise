@@ -1,7 +1,7 @@
-package com.ekahau.exercise.service;
+package com.example.exercise.service;
 
-import com.ekahau.exercise.db.Book;
-import com.ekahau.exercise.db.BookRepo;
+import com.example.exercise.db.Book;
+import com.example.exercise.db.BookRepo;
 import org.assertj.core.api.JUnitSoftAssertions;
 import org.junit.Before;
 import org.junit.Rule;
@@ -14,7 +14,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.util.List;
 
-import static com.ekahau.exercise.TestUtil.getTestBooks;
+import static com.example.exercise.TestUtil.getTestBooks;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @RunWith(SpringRunner.class)

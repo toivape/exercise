@@ -1,4 +1,4 @@
-package com.ekahau.exercise.service;
+package com.example.exercise.service;
 
 
 import org.springframework.http.HttpStatus;

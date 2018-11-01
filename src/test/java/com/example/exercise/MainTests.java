@@ -1,4 +1,4 @@
-package com.ekahau.exercise;
+package com.example.exercise;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

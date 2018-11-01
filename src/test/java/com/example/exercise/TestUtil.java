@@ -1,6 +1,6 @@
-package com.ekahau.exercise;
+package com.example.exercise;
 
-import com.ekahau.exercise.db.Book;
+import com.example.exercise.db.Book;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.assertj.core.util.Lists;

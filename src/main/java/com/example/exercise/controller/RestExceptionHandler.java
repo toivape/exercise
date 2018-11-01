@@ -1,7 +1,7 @@
-package com.ekahau.exercise.controller;
+package com.example.exercise.controller;
 
-import com.ekahau.exercise.service.BookExistsException;
-import com.ekahau.exercise.service.BookNotFoundException;
+import com.example.exercise.service.BookExistsException;
+import com.example.exercise.service.BookNotFoundException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

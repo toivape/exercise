@@ -1,7 +1,7 @@
-package com.ekahau.exercise.service;
+package com.example.exercise.service;
 
-import com.ekahau.exercise.db.Book;
-import com.ekahau.exercise.db.BookRepo;
+import com.example.exercise.db.Book;
+import com.example.exercise.db.BookRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
